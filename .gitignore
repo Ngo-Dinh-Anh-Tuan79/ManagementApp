@@ -1,0 +1,28 @@
+################################
+# Frontend (Vite / Node)
+################################
+frontend/node_modules
+frontend/dist
+frontend/dist-ssr
+frontend/.env
+frontend/*.local
+
+################################
+# Backend (.NET)
+################################
+Backend/bin
+Backend/obj
+**/bin
+**/obj
+
+################################
+# IDE / OS
+################################
+.vscode
+.idea
+.DS_Store
+*.suo
+*.user
+*.njsproj
+*.sln
+h
