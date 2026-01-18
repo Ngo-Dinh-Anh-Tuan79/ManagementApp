@@ -26,3 +26,4 @@ Backend/obj
 *.njsproj
 *.sln
 h
+Backend/appsettings.Development.json
